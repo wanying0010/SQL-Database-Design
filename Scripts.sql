@@ -1,4 +1,4 @@
-```sql
+```
 CREATE TABLE customers(
 customer_ID DECIMAL(10) NOT NULL,
 membership_ID DECIMAL(15) NOT NULL,
