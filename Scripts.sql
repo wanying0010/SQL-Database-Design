@@ -307,7 +307,7 @@ LEFT JOIN dvds on movies.movie_id = dvds.movie_id
 WHERE (rental.return_date IS NULL)
 OR (dvds.status = 'out of stock');
  
- CREATE OR REPLACE PROCEDURE GENRE_CHANGE (GENRE_ID IN DECIMAL)
+CREATE OR REPLACE PROCEDURE GENRE_CHANGE (GENRE_ID IN DECIMAL)
 AS BEGIN
    UPDATE MOVIES
    SET GENRE_ID = (SELECT GENRE_ID FROM genre WHERE genre_name = 'Fantasy')
