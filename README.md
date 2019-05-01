@@ -19,7 +19,7 @@ Tables include:
 8. DVDs
 
 ## Viewing the ERDs and Running the scripts
-To view the ERDs, installing Microsoft Visio on the device and downloading the files from Github. To run and test the scripts in Oracle, please use the scripts on file and read the word document for further reference.
+To view the ERDs, you can install Microsoft Visio on the device and download the files from Github. To run and test the scripts in Oracle, please use the scripts on file and read the word document for further reference.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
