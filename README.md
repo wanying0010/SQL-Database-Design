@@ -1,4 +1,4 @@
-# Online-Movies-Rental-Database-Design
+# SQL-Database-Design
 Oracle SQL schema and scripts for online movies rental database design
 ## Overview
 
